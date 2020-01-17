@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		8D48A24223D19B4A003EA253 /* start.txt in Resources */ = {isa = PBXBuildFile; fileRef = 8D48A24123D19B4A003EA253 /* start.txt */; };
 		8DAC353923D0267A008BC06C /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8DAC353823D0267A008BC06C /* AppDelegate.swift */; };
 		8DAC353B23D0267A008BC06C /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8DAC353A23D0267A008BC06C /* SceneDelegate.swift */; };
 		8DAC353D23D0267A008BC06C /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8DAC353C23D0267A008BC06C /* ContentView.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		8D48A24123D19B4A003EA253 /* start.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = start.txt; sourceTree = "<group>"; };
 		8DAC353523D0267A008BC06C /* WordSearch.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = WordSearch.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		8DAC353823D0267A008BC06C /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		8DAC353A23D0267A008BC06C /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -60,6 +62,7 @@
 				8DAC353A23D0267A008BC06C /* SceneDelegate.swift */,
 				8DAC353C23D0267A008BC06C /* ContentView.swift */,
 				8DAC353E23D0267F008BC06C /* Assets.xcassets */,
+				8D48A24123D19B4A003EA253 /* start.txt */,
 				8DAC354323D0267F008BC06C /* LaunchScreen.storyboard */,
 				8DAC354623D0267F008BC06C /* Info.plist */,
 				8DAC354023D0267F008BC06C /* Preview Content */,
@@ -134,6 +137,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				8DAC354523D0267F008BC06C /* LaunchScreen.storyboard in Resources */,
+				8D48A24223D19B4A003EA253 /* start.txt in Resources */,
 				8DAC354223D0267F008BC06C /* Preview Assets.xcassets in Resources */,
 				8DAC353F23D0267F008BC06C /* Assets.xcassets in Resources */,
 			);
